@@ -4,6 +4,10 @@ A full-featured restaurant ordering, reservation, and management web app built w
 
 ---
 
+## 🔗 Live Demo
+ 
+[https://spice-hub-ten.vercel.app/)
+
 ## 🚀 Quick Start
 
 ```bash
